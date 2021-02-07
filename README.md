@@ -1,4 +1,5 @@
-# vue_todo
+# vue_todo  
+This is a Vue tutorial by Brad Traversy  
 
 ## Project setup
 ```
